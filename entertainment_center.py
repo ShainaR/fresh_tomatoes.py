@@ -24,21 +24,24 @@ braveheart = media.Movie("Braveheart",
 
 #The Village instance
 the_village = media.Movie("The Village",
-                          "A village is plagued by monsters in the forest, but is faced with a dark secret when a blind girl is forced to leave for medicine in the towns.",
+                          "A village is plagued by monsters in the forest, but is faced with a dark secret"
+                          " when a blind girl is forced to leave for medicine in the towns.",
                           "109 minutes",
                           "https://upload.wikimedia.org/wikipedia/en/a/a0/The_Village_movie.jpg",
                           "https://www.youtube.com/watch?v=lwq4oTboRi4")
 
 #Breakfast Club instance
 the_breakfast_club = media.Movie("The Breakfast Club",
-                                 "Five high school students from different walks of life are forced to relate during a one day school detention.",
+                                 "Five high school students from different walks of life are forced to"
+                                 " relate during a one day school detention.",
                                  "97 minutes",
                                  "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/The_Breakfast_Club.jpg/220px-The_Breakfast_Club.jpg",
                                  "https://www.youtube.com/watch?v=BSXBvor47Zs")
 
 #Heathers instance
 heathers = media.Movie("Heathers",
-                        "Three wealthy and popular high school girls, all named Heather, are brought down by Veronica Sawyer and her psychotic murderous boyfriend.",
+                        "Three wealthy and popular high school girls, all named Heather,"
+                        " are brought down by Veronica Sawyer and her psychotic murderous boyfriend.",
                         "103 minutes",
                         "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Heathersposter89.jpg/220px-Heathersposter89.jpg",
                         "https://www.youtube.com/watch?v=3Yl_eZ6Iem8")
